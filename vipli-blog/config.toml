@@ -1,0 +1,5 @@
+baseURL = 'https://gitvae.github.io/'   // 设置成你自己的
+languageCode = 'zh-cn'
+title = 'Li的博客'
+theme = "ananke"
+publishDir = 'docs'

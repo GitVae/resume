@@ -1,0 +1,3 @@
+[submodule "vipli-blog/themes/ananke"]
+	path = vipli-blog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
